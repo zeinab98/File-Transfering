@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Project1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/FileTranfer/Project/Server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/FileTranfer/Project/Java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/FileTranfer/Project/Client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
